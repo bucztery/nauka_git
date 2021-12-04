@@ -2,6 +2,6 @@
 
 > Testowy cytat
 
-'''
+```
 git status
-'''
+```
